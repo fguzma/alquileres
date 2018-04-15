@@ -98,7 +98,7 @@
         <h2 class="satisfy title" id="serv">Servicios</h2>
       </div>
       <div class="row" >
-        <div class="col-md-4 col-lg-3 col-sm-6 col-xs-12 services" style="background-size: 100% 100%; background-image:url(image/servicios/sillas2.jpg)">
+        <div class="black col-md-4 col-lg-3 col-sm-6 col-xs-12 services" style="background-repeat: no-repeat; background-size: 80% 100%; background-image:url(image/servicios/sillas2.jpg)">
           <div class="screen">
             <div class="row middle-xs full-height">
               <div class="col-xs-12 white-text" >
