@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/fguzma/alqui_vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/Kavv/prueba" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Lipe\PhpstormProjects" />
